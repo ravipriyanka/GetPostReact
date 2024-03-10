@@ -1,1 +1,1 @@
-This repo is used to get and post method in spring boot
+This repo is used to get, put, post using RESTAPI
